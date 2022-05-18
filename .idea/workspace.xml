@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87dc7ca5-d9ee-4787-9686-d9d63c83843b" name="Changes" comment="1. setup expo on dev system and on phone for ios.&#10;2. created a very rudimentary sign up page.">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/debug.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher_round1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher_round2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher_round3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/ic_launcher_round4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kripticc/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kripticc/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kripticc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kripticc/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kripticc/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kripticc/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kripticc/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kripticc/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kripticc/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kripticc/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kripticc/src/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kripticc/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kripticc/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kripticc/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kripticc/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kripticc/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kripticc/src/reportWebVitals.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kripticc/src/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kripticc/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kripticc/.expo-shared/assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kripticc/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/kripticc/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kripticc/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kripticc/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kripticc/assets/adaptive-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kripticc/assets/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kripticc/assets/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kripticc/assets/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kripticc/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kripticc/components/sign-in.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kripticc/eas.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kripticc/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/kripticc/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kripticc/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/kripticc/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kripticc/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/kripticc/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="local-uditt" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="local-udit-react" />
+                    <option name="lastUsedInstant" value="1652852214" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="local-uditt" />
+                    <option name="lastUsedInstant" value="1652815988" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1652815987" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="h39e769o" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29CwUUwtMj3utZ1EMuY4v531OfV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "js.linters.configure.manually.selectedtslint": "true",
+    "last_opened_file_path": "/home/udittl/Work/frontend-react/Kripticc",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "/home/udittl/.nvm/versions/node/v16.15.0/bin/node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.javascript.linters.tslint",
+    "ts.external.directory.path": "/home/udittl/Work/frontend-react/kripticc/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kripticc" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87dc7ca5-d9ee-4787-9686-d9d63c83843b" name="Changes" comment="" />
+      <created>1652630390558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652630390558</updated>
+      <workItem from="1652630392210" duration="22000" />
+      <workItem from="1652790971153" duration="194000" />
+      <workItem from="1652797890814" duration="1675000" />
+      <workItem from="1652799593013" duration="817000" />
+      <workItem from="1652808068905" duration="3149000" />
+      <workItem from="1652811226157" duration="283000" />
+      <workItem from="1652811521403" duration="100000" />
+      <workItem from="1652811632768" duration="4526000" />
+      <workItem from="1652850801923" duration="2477000" />
+    </task>
+    <task id="LOCAL-00001" summary="1. setup expo on dev system and on phone for ios.&#10;2. created a very rudimentary sign up page.">
+      <created>1652816134646</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652816134646</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="1. setup expo on dev system and on phone for ios.&#10;2. created a very rudimentary sign up page." />
+    <option name="LAST_COMMIT_MESSAGE" value="1. setup expo on dev system and on phone for ios.&#10;2. created a very rudimentary sign up page." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
