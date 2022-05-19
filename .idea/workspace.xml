@@ -4,26 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87dc7ca5-d9ee-4787-9686-d9d63c83843b" name="Changes" comment="moved to react. phone apps dev making things complicated.">
-      <change afterPath="$PROJECT_DIR$/kripticc/pages/api/hello.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kripticc/pages/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kripticc/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kripticc/prettier.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kripticc/tailwind.config.js" afterDir="false" />
+    <list default="true" id="87dc7ca5-d9ee-4787-9686-d9d63c83843b" name="Changes" comment="with tailwind">
+      <change afterPath="$PROJECT_DIR$/kripticc/components/Layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kripticc/components/input-btn.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kripticc/components/sign-in-form.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kripticc/.eslintrc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kripticc/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/kripticc/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kripticc/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/kripticc/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kripticc/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/kripticc/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kripticc/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kripticc/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/kripticc/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kripticc/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/kripticc/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kripticc/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/kripticc/pages/_app.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kripticc/pages/api/hello.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kripticc/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kripticc/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/kripticc/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kripticc/styles/Home.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kripticc/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/kripticc/styles/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kripticc/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/kripticc/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kripticc/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/kripticc/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,13 +98,15 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "/home/udittl/.nvm/versions/node/v16.15.0/bin/node",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "prettierjs.PrettierConfiguration.Package": "/home/udittl/Work/frontend-react/kripticc/node_modules/prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
     "ts.external.directory.path": "/home/udittl/Work/frontend-react/kripticc/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kripticc/components" />
       <recent name="$PROJECT_DIR$/kripticc" />
     </key>
   </component>
@@ -138,7 +129,8 @@
       <workItem from="1652850801923" duration="4681000" />
       <workItem from="1652887117884" duration="1915000" />
       <workItem from="1652893998785" duration="2399000" />
-      <workItem from="1652898769965" duration="863000" />
+      <workItem from="1652898769965" duration="1661000" />
+      <workItem from="1652933077003" duration="9547000" />
     </task>
     <task id="LOCAL-00001" summary="1. setup expo on dev system and on phone for ios.&#10;2. created a very rudimentary sign up page.">
       <created>1652816134646</created>
@@ -161,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652898473798</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="with tailwind">
+      <created>1652899752899</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652899752899</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +181,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1. setup expo on dev system and on phone for ios.&#10;2. created a very rudimentary sign up page." />
     <MESSAGE value="moved to react. phone apps dev making things complicated." />
-    <option name="LAST_COMMIT_MESSAGE" value="moved to react. phone apps dev making things complicated." />
+    <MESSAGE value="with tailwind" />
+    <option name="LAST_COMMIT_MESSAGE" value="with tailwind" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
